@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="de.pateck.honeywell.scanner">
+    <uses-permission android:name="com.honeywell.decode.permission.DECODE" />
+
+</manifest>
