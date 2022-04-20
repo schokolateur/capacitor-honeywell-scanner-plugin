@@ -1,0 +1,1 @@
+# capacitor-honeywell-scanner-plugin
